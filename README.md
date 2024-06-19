@@ -1,4 +1,4 @@
-<h1 align="center">Hi!👋, This is Bhoumik Patidar</h1>
+<h1 align="center">Hi!👋, This is Bhoumik</h1>
 
 I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. My current research focuses on **Generative AI for Computer Vision**, specifically on **Generative Adversarial Networks (GANs)** and their role in **image data compression**. I'm passionate about **Applied Machine Learning** and **Software Development**.
 
@@ -7,7 +7,7 @@ I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhina
 
 For further details, you can check my resume [here](./Resume.pdf).
 
-<h2 align="center">Git Repositories</h2>
+<h2 align="center">Recent Projects</h2>
 
 <div align="center">
   
@@ -23,7 +23,7 @@ For further details, you can check my resume [here](./Resume.pdf).
 
 
 
-<h2 align="center">Languages, Platforms, Dependencies</h2>
+<h2 align="center">Languages, Platforms, Libraries</h2>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
