@@ -70,7 +70,6 @@ For further details, you can check my resume [here](./Resume.pdf).
 <div align="center">
   <a href="https://www.linkedin.com/in/bhoumik-patidar-586a2524a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bhoumik.patidar@iitgn.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/bhoumik.patidar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/Bhoumik03"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=BhoumikPatidar&style=for-the-badge&abbreviated=true" /></p>
