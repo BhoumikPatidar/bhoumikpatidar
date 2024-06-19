@@ -13,7 +13,7 @@ For further details, you can check my resume [here](./Resume.pdf).
   
 
   <a href="https://github.com/BhoumikPatidar/Machine-Learning-For-Plant-Electrophysiological-Signal-Study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-For-Plant-Electrophysiological-Signal-Study" />
   </a>
 
   <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
