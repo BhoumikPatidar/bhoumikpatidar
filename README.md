@@ -7,6 +7,19 @@ I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhina
 
 For further details, you can check my resume [here](./Resume.pdf).
 
+<h2 align="center">GitHub Repositories</h2>
+
+<div align="center">
+  <a href="https://github.com/BhoumikPatidar/Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project">
+    <img src="https://img.shields.io/badge/CS299 Project-Machine Learning Based Plant Electrophysiological Signal Study-ff69b4?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
+    <img src="https://img.shields.io/badge/CS299 Project-Numerical Analysis Of Ideological Outreach In Social Media Networks-ff69b4?style=for-the-badge&logo=github"/>
+  </a>
+</div>
+
+<h2 align="center">Languages, Platforms, Dependencies</h2>
+
 <h2 align="center">Languages, Platforms, Dependencies</h2>
 <p>
 <div align="center">
