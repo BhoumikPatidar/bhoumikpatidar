@@ -12,7 +12,7 @@ For further details, you can check my resume [here](./Resume.pdf).
 <div align="center">
   
 
-  <a href="https://github.com/BhoumikPatidar/Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project">
+  <a href="https://github.com/BhoumikPatidar/Machine-Learning-For-Plant-Electrophysiological-Signal-Study">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project" />
   </a>
 
