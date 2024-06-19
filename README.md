@@ -23,7 +23,6 @@ For further details, you can check my resume [here](./Resume.pdf).
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/verilog-%2300BFFF.svg?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/matlab-%23008080.svg?style=for-the-badge&logo=matlab&logoColor=white">
 </div>
 </p>
@@ -31,13 +30,12 @@ For further details, you can check my resume [here](./Resume.pdf).
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/seaborn-%23FFA07A.svg?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black">
+  <img src="https://img.shields.io/badge/seaborn-%23FFA07A.svg?style=for-the-badge&logoColor=white">
 </div>
 </p>
-
-<h2 align="center">Machine Learning and Deep Learning</h2>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -45,6 +43,27 @@ For further details, you can check my resume [here](./Resume.pdf).
   <img src="https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" />
 </div>
 </p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" />
+</div>
+</p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/pcb%20designing-%23000080.svg?style=for-the-badge&logo=pcb-designing&logoColor=white" />
+  <img src="https://img.shields.io/badge/ltspice-%23000080.svg?style=for-the-badge&logo=ltspice&logoColor=white" />
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/DAQ-%23000080.svg?style=for-the-badge&logo=DAQ&logoColor=white" />
+</div>
+</p>
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Autodesk%20Inventor-%23F58500.svg?style=for-the-badge&logo=autodesk-inventor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-%23F58500.svg?style=for-the-badge&logo=fusion-360&logoColor=white" />
+</div>
+</p>
+
 
 <h2 align="center">Contact Me</h2>
 <p>
