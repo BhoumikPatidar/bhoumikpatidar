@@ -9,15 +9,12 @@ For further details, you can check my resume [here](./Resume.pdf).
 
 <h2 align="center">Recent Projects</h2>
 
-<div align="center">
-  
-
-  <a href="https://github.com/BhoumikPatidar/Machine-Learning-For-Plant-Electrophysiological-Signal-Study">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-For-Plant-Electrophysiological-Signal-Study" />
+<div style="width: 100%; overflow-x: auto; white-space: nowrap;">
+  <a href="https://github.com/BhoumikPatidar/Machine-Learning-For-Plant-Electrophysiological-Signal-Study" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-For-Plant-Electrophysiological-Signal-Study" width="400" style="vertical-align: top;">
   </a>
-
-  <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" />
+  <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" width="400" style="vertical-align: top;">
   </a>
 </div>
 
