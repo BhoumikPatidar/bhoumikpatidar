@@ -8,14 +8,19 @@ I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhina
 For further details, you can check my resume [here](./Resume.pdf).
 
 ## Git Repositories
-<div align="center">
+
+<div>
   <a href="https://github.com/BhoumikPatidar/Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project" />
-  </a>
-  <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project" style="max-width: 400px; width: 100%;" />
   </a>
 </div>
+
+<div style="margin-top: 10px;">
+  <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" style="max-width: 400px; width: 100%;" />
+  </a>
+</div>
+
 
 <h2 align="center">Languages, Platforms, Dependencies</h2>
 <p>
