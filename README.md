@@ -9,16 +9,18 @@ For further details, you can check my resume [here](./Resume.pdf).
 
 ## Git Repositories
 
-<div>
-  <a href="https://github.com/BhoumikPatidar/Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project" style="max-width: 400px; width: 100%;" />
-  </a>
-</div>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="width: 300px; margin-bottom: 10px;">
+    <a href="https://github.com/BhoumikPatidar/Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Machine-Learning-Based-Plant-Electrophysiological-Signal-Study-CS299-Project" style="width: 100%; height: auto;" />
+    </a>
+  </div>
 
-<div style="margin-top: 10px;">
-  <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" style="max-width: 400px; width: 100%;" />
-  </a>
+  <div style="width: 300px;">
+    <a href="https://github.com/BhoumikPatidar/Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhoumikPatidar&repo=Numerical-Analysis-Of-Ideological-Outreach-In-Social-Media-Networks" style="width: 100%; height: auto;" />
+    </a>
+  </div>
 </div>
 
 
