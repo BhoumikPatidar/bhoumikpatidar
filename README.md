@@ -4,7 +4,7 @@ I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhina
 
 I'm passionate about **Applied Machine Learning** and **Software Development**.
 
-- 🌱 I’m working as a Research Intern at the Computer Vision Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman. 
+- 🌱 I recently finished a Summer Research Internship at the Computer Vision Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman. 
 - 📫 Reach out to me at bhoumik.patidar@iitgn.ac.in or visit [my LinkedIn](https://www.linkedin.com/in/bhoumik-patidar-586a2524a/).
 
 For further details, you can check my resume [here](./resume.pdf).
