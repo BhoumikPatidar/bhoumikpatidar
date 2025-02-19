@@ -1,10 +1,8 @@
 <h1 align="center">Hi!👋, This is Bhoumik</h1>
 
-I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. My current research focuses on **Generative AI for Computer Vision**, specifically on **Generative Adversarial Networks (GANs)** exploring **knowledge distillation techniques** for training efficient GANs without compromising on performance. 
+I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. My interests lie in **Efficient AI**, **Edge ML**, and **Software Development**.  
 
-I'm passionate about **Applied Machine Learning** and **Software Development**.
-
-- 🌱 I recently finished a Summer Research Internship at the Computer Vision Lab, IIT Gandhinagar, under Prof. Shanmuganathan Raman. 
+- Upcoming **ML Compiler Engineer Intern** at **Qualcomm**.   
 - 📫 Reach out to me at bhoumik.patidar@iitgn.ac.in or visit [my LinkedIn](https://www.linkedin.com/in/bhoumik-patidar-586a2524a/).
 
 For further details, you can check my resume [here](./resume.pdf).
