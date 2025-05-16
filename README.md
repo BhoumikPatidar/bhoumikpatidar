@@ -2,7 +2,7 @@
 
 I am a **Junior Undergraduate** at the **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. My interests lie in **Efficient AI**, **Edge ML**, and **Software Development**.  
 
-- Upcoming **ML Compiler Engineer Intern** at **Qualcomm**.   
+- Upcoming intern at **Qualcomm**.   
 - 📫 Reach out to me at bhoumik.patidar@iitgn.ac.in or visit [my LinkedIn](https://www.linkedin.com/in/bhoumik-patidar-586a2524a/).
 
 For further details, you can check my resume [here](./resume.pdf).
