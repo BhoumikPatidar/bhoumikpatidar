@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, This is Bhoumik</h1>
+<h1 align="center">Hi! This is Bhoumik</h1>
 
 I am a **Senior Undergraduate** at the **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. My interests lie in **Efficient AI**, **Edge ML**, and **Software Development**.  
 
