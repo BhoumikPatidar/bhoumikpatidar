@@ -1,9 +1,9 @@
-<h1 align="center">Hi!👋, This is Bhoumik</h1>
+<h1 align="center">Hi!, This is Bhoumik</h1>
 
 I am a **Senior Undergraduate** at the **Indian Institute of Technology Gandhinagar** in the discipline of **Computer Science and Engineering**. My interests lie in **Efficient AI**, **Edge ML**, and **Software Development**.  
 
 - Recently interned at **Qualcomm**, building the x86_64 support for the open sourced eld linker.   
-- 📫 Reach out to me at bhoumik.patidar@iitgn.ac.in or visit [my LinkedIn](https://www.linkedin.com/in/bhoumik-patidar-586a2524a/).
+- Reach out to me at bhoumik.patidar@iitgn.ac.in or visit [my LinkedIn](https://www.linkedin.com/in/bhoumik-patidar-586a2524a/).
 
 For further details, you can check my resume [here](./resume.pdf).
 
